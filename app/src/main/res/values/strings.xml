@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Mini Project</string>
+    <string name="creator_name" translatable="false">Abdoulaye sadio BAH</string>
+    <string name="button_functionality_apis">Ouvrir fonctionnalité 2</string>
+    <string name="button_functionality_connection">Ouvrir fonctionnalité Connexion</string>
+    <string name="button_add" translatable="false">Add</string>
+    <string name="button_remove_all">Delete All</string>
+    <string name="version">version</string>
+</resources>

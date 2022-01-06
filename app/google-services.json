@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837161877360",
+    "project_id": "mini-projet-cours-android",
+    "storage_bucket": "mini-projet-cours-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837161877360:android:b10a7030700dac7666d9b5",
+        "android_client_info": {
+          "package_name": "com.sadio.miniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837161877360-2secl6pmiq794vtb2imef9a6n0hr2htk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbYaWcN-GrOr5m0Nk2-gAcrFBzFlZ1xTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837161877360-2secl6pmiq794vtb2imef9a6n0hr2htk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

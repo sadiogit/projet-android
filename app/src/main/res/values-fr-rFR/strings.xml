@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_functionality_apis">Ouvrir fonctionnalité 2 </string>
+    <string name="button_functionality_connection">Ouvrir fonctionnalité Connexion</string>
+    <string name="button_add">Ajout</string>
+    <string name="button_remove_all">Vider</string>
+    <string name="version">version</string>
+</resources>
